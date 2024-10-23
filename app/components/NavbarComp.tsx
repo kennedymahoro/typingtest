@@ -10,10 +10,10 @@ export default function NavbarComp() {
       </Navbar.Brand>
       <Navbar.Toggle />
       <Navbar.Collapse>
-        <Navbar.Link href="/navbars" active>
+        <Navbar.Link href="/" active>
           Home
         </Navbar.Link>
-        <Navbar.Link href="/navbars">Typing Test</Navbar.Link>
+        <Navbar.Link href="/Test">Typing Test</Navbar.Link>
         <Navbar.Link href="https://github.com/kennedymahoro">
           GitHub
         </Navbar.Link>
