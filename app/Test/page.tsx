@@ -3,9 +3,6 @@ import NavbarComp from "../components/NavbarComp";
 import { Textarea } from "flowbite-react";
 import { HtmlHTMLAttributes, useState } from "react";
 export default function Test() {
-    interface spanArray {
-        type: HtmlHTMLAttributes
-    }
     // textarea logic function
     // for handling text
     const [text, setText] = useState("");
